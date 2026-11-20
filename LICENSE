@@ -1,0 +1,34 @@
+# Лицензия
+
+Copyright © 2026 Maffloppe. Все права защищены.
+
+Исходный код, бинарные сборки, графика, тексты и другие материалы Gemfloppe (далее — «Материалы») принадлежат правообладателю.
+
+Без письменного разрешения правообладателя запрещается:
+
+1. Копировать Материалы целиком или частично.
+2. Распространять Материалы, в том числе в изменённом виде, в составе других продуктов и через сторонние площадки.
+3. Изменять, декомпилировать и создавать производные продукты на основе Материалов.
+4. Использовать название и иконку Gemfloppe для сторонних продуктов.
+
+Разрешается устанавливать и использовать приложение на собственных устройствах в личных целях.
+
+## Сторонние компоненты
+
+Материалы содержат сторонний код, распространяемый под собственными лицензиями: MIT, MPL 2.0, SIL OFL 1.1, CC-BY 4.0. Эти части остаются под своими лицензиями, и их условия имеют приоритет над этой лицензией в отношении соответствующих частей. Полный список — в [NOTICE.md](NOTICE.md), тексты лицензий доступны в приложении: «О приложении» → «Лицензии».
+
+## Отказ от гарантий
+
+Материалы предоставляются «как есть», без гарантий любого рода. Правообладатель не отвечает за убытки, потерю данных и последствия использования.
+
+---
+
+# License
+
+Copyright © 2026 Maffloppe. All rights reserved.
+
+No part of this software, its binaries, graphics or texts may be copied, distributed, modified or used to create derivative works without prior written permission from the copyright holder. Installing and using the app on your own devices for personal purposes is allowed.
+
+Third-party components remain under their own licenses (MIT, MPL 2.0, SIL OFL 1.1, CC-BY 4.0); see [NOTICE.md](NOTICE.md).
+
+The software is provided "as is", without warranty of any kind.
